@@ -6,6 +6,7 @@
     "URL_CODE": "code",
     "LOBBY_SCENE_NAME": "lobby-staging-test",
     "LOGIN_SCENE_NAME": "login-staging-test",
+    "HOT_UPDATE_URL": "https://hotupdate.staging.gmstd.dev/dev-remote-assets/",
     "IPMaster1": "wss://staging.fish.gmstd.dev/lobby/",
     "IPMaster2": "wss://staging.fish.gmstd.dev/lobby-1993/",
     "IPMaster3": "wss://staging.fish.gmstd.dev/lobby-1997/",
